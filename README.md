@@ -1,1 +1,0 @@
-# Typing-Speed-Test-Python-Project
